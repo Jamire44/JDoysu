@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-JDoysuAuthenticatedBackendApplication<JDoysuAuthenticatedBackend>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.jayd.JDoysuAuthenticatedBackend.JDoysuAuthenticatedBackendApplication",
+            "projectName": "JDoysuAuthenticatedBackend",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
